@@ -68,10 +68,11 @@ const teamMembers = [
 
 
 ## 🌍 Поддержка браузеров
-Браузер	Версия
-Chrome	58+
-Firefox	55+
-Safari	12+
+| Браузер |	Версия |
+|---------|--------|
+|Chrome |	58+ |
+|Firefox |	55+ |
+|Safari |	12+ |
 
 ## 📜 Лицензия
 MIT License. Подробнее в файле LICENSE.

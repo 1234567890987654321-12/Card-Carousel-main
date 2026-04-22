@@ -1,6 +1,6 @@
 # 3D Карусель участников команды
 
-[![пример работы проекта](//placehold.it/150x100)](https://avatars.mds.yandex.net/i?id=82e0578dbd4b89a87940959974ed9364_l-16408336-images-thumbs&n=13/)
+[![пример работы проекта](//placehold.it/150x100)](https://avatars.mds.yandex.net/i?id=82e0578dbd4b89a87940959974ed9364_l-16408336-images-thumbs&n=13)
 
 ## 📌 О проекте
 
